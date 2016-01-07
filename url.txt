@@ -1,6 +1,6 @@
 {
-    "check": true,
-    "url": "http://guegl.de/",
+	"check": true,
+	"url": "http://guegl.de/",
 	"apiurl": "http://guegl.de/dangarus/app/",
-    "error_message": ""
+	"error_message": ""
 }
