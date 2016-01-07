@@ -1,1 +1,5 @@
-http://guegl.de/
+{
+    "check": true,
+    "url": "http://guegl.de/",
+    "error_message": ""
+}
