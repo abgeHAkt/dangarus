@@ -1,6 +1,6 @@
 {
 	"check": true,
 	"url": "http://abgehakt.eu/dangarus/",
-	"apiurl": "http://abgehakt.eu/dangarus/app/",
+	"apiurl": "https://abgehakt.eu/dangarus/app/",
 	"error_message": ""
 }
