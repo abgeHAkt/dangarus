@@ -1,6 +1,6 @@
 {
-	"check": true,
-	"url": "http://abgehakt.pytalhost.eu/dangarus/",
-	"apiurl": "http://abgehakt.pytalhost.eu/dangarus/app/",
-	"error_message": ""
+"check": true,
+"url": "https://m.da49.de/",
+"apiurl": "https://api.da49.de/",
+"error_message": ""
 }
